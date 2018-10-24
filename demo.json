@@ -1,0 +1,75 @@
+{
+  "players": 4,
+  "objects": [
+    {
+      "Country": 2,
+      "id": 17002769,
+      "Flags": {
+        "Born": true,
+        "Static": false,
+        "Invisible": false,
+        "Human": true,
+        "AI_ON": true,
+        "RadarActive": false
+      },
+      "Coalition": "Enemies",
+      "Heading": 1.185713291168213,
+      "Name": "Plane 1",
+      "UnitName": "Demo Man 1",
+      "LatLongAlt": {
+        "Long": 37.254572949567645,
+        "Lat": 44.94135164128214,
+        "Alt": 475.33498088506843
+      },
+      "CoalitionID": 2,
+      "Bank": -0.24863924086093903
+    },
+	{
+      "Country": 2,
+      "id": 17002268,
+      "Flags": {
+        "Born": true,
+        "Static": false,
+        "Invisible": false,
+        "Human": true,
+        "AI_ON": true,
+        "RadarActive": false
+      },
+      "Coalition": "Enemies",
+      "Heading": 1.185713291168213,
+      "Name": "Plane 2",
+      "UnitName": "Demo Man 2",
+      "LatLongAlt": {
+        "Long": 41.254572949567645,
+        "Lat": 44.94135164128214,
+        "Alt": 800.33498088506843
+      },
+      "CoalitionID": 2,
+      "Bank": -0.24863924086093903
+    },
+	{
+      "Country": 2,
+      "id": 17002825,
+      "Flags": {
+        "Born": true,
+        "Static": false,
+        "Invisible": false,
+        "Human": true,
+        "AI_ON": true,
+        "RadarActive": false
+      },
+      "Coalition": "Enemies",
+      "Heading": 0.185713291168213,
+      "Name": "Plane 3",
+      "UnitName": "Demo Man 3",
+      "LatLongAlt": {
+        "Long": 46.254572949567645,
+        "Lat": 42.94135164128214,
+        "Alt": 800.33498088506843
+      },
+      "CoalitionID": 2,
+      "Bank": -0.24863924086093903
+    }
+  ],
+  "maxPlayers": 29
+}
